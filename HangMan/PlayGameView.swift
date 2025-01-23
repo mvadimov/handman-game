@@ -226,7 +226,7 @@ struct PlayGameView: View {
             }
             return true
         }
-        return true/////////
+        return false
     }
 }
 
